@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Python environment
+.venv/
+
+# API keys and local configuration
+.env
+.env.*
+!.env.example
+
+# Uploaded documents and generated indexes
+data/uploads/*
+!data/uploads/.gitkeep
+storage/*
+!storage/.gitkeep
