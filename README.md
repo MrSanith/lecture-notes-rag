@@ -4,10 +4,6 @@ A local Retrieval-Augmented Generation application that answers
 questions from uploaded lecture PDFs and displays supporting passages
 with filenames and PDF page references.
 
-## Demo
-
-Add a screenshot and a link to the demo video.
-
 ## Features
 
 - Upload multiple text-based PDFs
