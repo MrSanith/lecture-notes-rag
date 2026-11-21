@@ -1,0 +1,5 @@
+pypdf==7.0.1
+requests
+numpy
+streamlit
+sentence-transformers
